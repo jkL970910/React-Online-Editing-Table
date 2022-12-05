@@ -1,0 +1,9 @@
+.upload {
+    float: right;
+    margin-left: 8px;
+}
+
+.infoContentTitle {
+    font-weight: bold;
+    display: inline-block;
+}
